@@ -1,0 +1,76 @@
+.body{background-color: rgb(252, 246, 252);
+ margin: 80px;
+}
+.quem{
+    background-color: rgb(142, 89, 155);
+    color: azure;
+}
+.bio{
+    background-color:rgb(142, 89, 155);
+
+}
+.header{
+    background-color: rgb(142, 89, 155);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: medium;
+    color: azure;
+}
+
+.foto1{
+    height: 400px
+}
+
+.riri{width: 300px;
+    height: 400px   ;
+
+}
+.info1{
+    width: 600px;
+    background-color: rgb(245, 225, 247);
+height: 300px;
+border-radius: 10px; 
+margin: auto;
+font-family: 'Times New Roman', Times, serif;
+}
+
+.info2{
+background-color: rgb(245, 225, 247);
+border-radius: 10px;
+margin: auto;
+height: 300px;
+width: 600px;
+font-family: 'Times New Roman', Times, serif;
+}
+
+.foto2{
+width: 300px;
+
+}
+.mel{ 
+height: 300px;
+
+}
+.info4{
+background-color: rgb(229, 215, 241);
+border-color:blueviolet;
+width: 600px;
+font-family: 'Times New Roman', Times, serif;
+}
+ .prgf{
+    background-color: rgb(230, 220, 240);
+ }
+
+ .rodape{
+    background-color: rgb(142, 89, 155);
+ height: 400px;
+ color: azure;
+ }
+ .anti{
+    width: 100px;
+ }
+ .loud{
+    width: 100px;
+ }
+ .talk{
+    width: 100px;
+ }
